@@ -1,0 +1,34 @@
+SMAP
+campusprogram_jsp.java
+JSP
+*S JSP
+*F
++ 0 campusprogram.jsp
+campusprogram.jsp
++ 1 headerfiles.jsp
+common/headerfiles.jsp
++ 2 header.jsp
+common/header.jsp
++ 3 footer.jsp
+common/footer.jsp
+*L
+1,12:56
+1#1,4:68
+12#0,4:72
+2#2,2:77
+3,29:79
+32,3:109
+34,4:112
+38,2:117
+39,3:119
+42,2:123
+43,8:125
+50,2:133
+15#0,7:135
+22,45:143
+66:188
+67,4:189,3
+71,4:201
+1#3,56:205
+74#0,5:261
+*E
